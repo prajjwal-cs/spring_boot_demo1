@@ -1,0 +1,5 @@
+###
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+<> 2023-05-01T153452.400.json
